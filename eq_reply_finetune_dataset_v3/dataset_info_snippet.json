@@ -1,0 +1,11 @@
+{
+  "eq_reply_train_v3": {
+    "file_name": "eq_reply_train_1500plus.jsonl",
+    "formatting": "alpaca",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  }
+}

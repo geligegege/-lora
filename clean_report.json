@@ -1,0 +1,17 @@
+{
+  "raw_count": 3166,
+  "bad_json": 0,
+  "after_basic_clean": 3161,
+  "after_limit_variants": 3116,
+  "train_count": 2738,
+  "eval_count": 378,
+  "remove_reasons": {
+    "bad_output": 5
+  },
+  "train_category_count": {
+    "未知": 2738
+  },
+  "eval_category_count": {
+    "未知": 378
+  }
+}
